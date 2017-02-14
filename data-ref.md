@@ -12,7 +12,6 @@ Please see [Transfer Data Model metadata](http://www.broadbandmap.gov/about/tech
 [US Community Anchor Institutions](http://www2.ntia.doc.gov/files/broadband-data/All-NBM-CAI-June-2014.zip)  
 
 ## You may download the supporting documents here  
-
 [NBM Files Released](http://www2.ntia.doc.gov/files/broadband-data/NBM_Files_Released_June_2014.xlsx)  
 [NBM Broadband Provider List](http://www2.ntia.doc.gov/files/broadband-data/NBM_Broadband_Provider_List_June_2014.xlsx)  
 [All Grantees Changes and Corrections](http://www2.ntia.doc.gov/files/broadband-data/All_Grantees_Changes_and_Corrections_June_2014.pdf)  
